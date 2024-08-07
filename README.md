@@ -1,3 +1,10 @@
+Bidify is a full-stack auction application that allows users to create an auction for an item and track its progress. Users can also search for their items and receive notifications once they are outbid by another user.
+
+Tech Stack: Next.js, PostgreSQL, Drizzle ORM, Next-Auth, TailwindCSS, ShadCN
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
